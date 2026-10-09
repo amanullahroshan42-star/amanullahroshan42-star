@@ -1,6 +1,6 @@
 # Hi, I'm Roshan 👋
 
-> *"Every unfinished project started with, 'This will only take five minutes.'"*
+> *"Every unfinished project started with 'This will only take five minutes.'"*
 
 I'm an **Electronics Engineer** passionate about building hands-on DIY projects, circuit design from breadboards to finished PCBs, and developing embedded microcontroller systems.
 
