@@ -34,5 +34,5 @@ I enjoy working across hardware and software: debugging signals on an oscillosco
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [roshan-amanullah-61143a2a8](https://www.linkedin.com/in/roshan-amanullah-61143a2a8/)
-- ✉️ **Email:** [amanullahroshan42@gmail.com](mailto:amanullahroshan42@gmail.com)
+- ✉️ **Email:** [roshanamanullah05@gmail.com](mailto:roshanamanullah05@gmail.com)
 - 🐙 **GitHub:** [@amanullahroshan42-star](https://github.com/amanullahroshan42-star)
