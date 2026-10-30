@@ -25,6 +25,7 @@ I enjoy working across hardware and software: debugging signals on an oscillosco
 
 | Project | Platform / Hardware | Core Focus | Link |
 | :--- | :--- | :--- | :---: |
+| **Grid Pulse** | ESP32 + Raspberry Pi 4/5 | Edge AI predictive maintenance, micro-PMU synchrophasors, Random Forest load classifier, ISO 10816 MHI, automated contactor trip | [View Repo](https://github.com/amanullahroshan42-star/Grid-Pulse-Edge-AI-Predictive-Maintenance) |
 | **Smart AQI Monitoring & Control** | STM32F401RE Nucleo-64 | Real-time indoor air quality sensing, 32× oversampled ADC1, Median+EMA noise filtering, 12-rule Mamdani Fuzzy Logic window servo | [View Repo](https://github.com/amanullahroshan42-star/Smart-AQI-Monitoring-and-Control) |
 | **PowerSentry** | Microchip PolarFire SoC (MPFS250T) | FPGA DSP pipeline, 1024-pt FFT harmonic analysis, sliding half-cycle RMS, IEC 61000-4-30 Class A, 5-core RISC-V AMP | [View Repo](https://github.com/amanullahroshan42-star/Power-Sentry) |
 | **CANoe Automotive UDS & OTA Simulation** | Vector CANoe / CAN 2.0B | EV BMS & VCU network simulation, ISO 14229 diagnostics, DTC lifecycle (3000ms debounce), 3-gate OTA safety interlock | [View Repo](https://github.com/amanullahroshan42-star/CANoe-Based-UDS-Diagnostic-Simulation-with-OTA-Readiness-Validation) |
