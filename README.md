@@ -4,7 +4,7 @@
 
 I'm an **Electronics Engineer** passionate about building hands-on DIY projects, circuit design from breadboards to finished PCBs, and developing embedded microcontroller systems.
 
-I enjoy working across hardware and software: debugging signals on an oscilloscope, modeling circuits in LTspice, building embedded applications in C/C++, and prototyping real-world electronics.
+I enjoy working across hardware and software: debugging signals on an oscilloscope, modeling circuits in LTspice, building embedded applications, and prototyping real-world electronics.
 
 ---
 
